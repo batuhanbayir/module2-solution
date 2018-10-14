@@ -1,0 +1,38 @@
+#header {background-color:#0000ff;color:#ff0000;font-family:calibri;height:100px;text-align:center;font-size:75px;padding:50px;}
+#chicken{
+    background: blue;font-size:30px;text-align:right
+}
+
+#beef{
+    background: red;font-size:30px;text-align:right
+}
+
+#sushi{
+    background: green;
+font-size:30px;text-align:right}
+
+
+#first{
+    background: #00ffbf;
+    width: 150px;
+    top:50px;
+    float: left;border: 3px solid red;margin-top:100px;margin-left:50px; 
+}
+
+
+#second{
+    background: #00ffbf;
+    width: 150px;
+    top:50px;
+    float: left;
+    margin-left: 500px;border: 3px solid red;margin-top:100px; 
+}
+
+
+#third{
+    background: #00ffbf;
+    width: 150px;
+    top:50px;
+    float: left;
+    margin-left: 450px;border: 3px solid red; 
+margin-top:100px;}
